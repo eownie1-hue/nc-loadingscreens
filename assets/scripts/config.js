@@ -12,11 +12,6 @@ Config.Socials = [
 Config.HideoverlayKeybind = 112 // JS key code https://keycode.info
 Config.CustomBindText = "F1"; // leave as "" if you don't want the bind text in html to be statically set
 
-// Staff list
-Config.Staff = [
-    {name: "NaorNC #1", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/894588279591161926/997613293034287236/unnamed__1_-removebg-preview.png"},
-    {name: "Owner #2", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/894588279591161926/997613293034287236/unnamed__1_-removebg-preview.png"},
-
 
 ];
 
@@ -27,4 +22,5 @@ Config.Categories = [
 ];
 
 // Music
+
 Config.Song = "song.mp3";
